@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nguyen Le Huu Hoang!
 
-🎯 Junior Web Developer passionate about crafting clean and efficient web applications. With over 2 years of front-end development experience and a year in full-stack web development, I’m constantly learning and pushing the boundaries of what’s possible on the web.
+🎯 Front-end Web Developer passionate about crafting clean and efficient web applications. With over 2 years of front-end development experience and a year in full-stack web development, I’m constantly learning and pushing the boundaries of what’s possible on the web.
 
 ---
 
