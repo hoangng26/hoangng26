@@ -40,10 +40,10 @@
 
 ## 🏢 Work Experience
 
-### **HRS Group** — Full-stack Developer *(Jun 2025 – Present)*
+### **HRS Group** — Full-stack Developer *(May 2025 – Present)*
 *Hybrid · Ho Chi Minh City, Vietnam*
 - Maintain & develop new features for **HRS Connect** ([connect.hrs.com](https://connect.hrs.com)) — a global venue & RFP platform for offsites, workshops, and group accommodations.
-- Previously maintained **Procurement Platforms** with the ProcureTech VN team.
+- Previously maintained **ProcureTech procurement platforms** (May 2025 – Sep 2025) before joining the Connect M&G VN team.
 - Contribute to system & database design, refactoring, and product/UX optimization.
 - Write UI automation tests and API regression tests to improve code quality.
 - Apply **AI Agents** in planning and development to deliver faster and reduce friction.
@@ -122,3 +122,4 @@
 - 📧 Email: [contact.hoangng26@gmail.com](mailto:contact.hoangng26@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/hoangng26](https://linkedin.com/in/hoangng26/)
 - 🖥️ GitHub: [github.com/hoangng26](https://github.com/hoangng26)
+- 📄 CV: [Download PDF](https://drive.google.com/file/d/1LbFeIPD1UWe9Ovm_KUX06uGNTmOeA-xN/view?usp=sharing)
